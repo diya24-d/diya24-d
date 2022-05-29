@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt=Coding" width="400" src="C:/Users/Diya/Downloads/SsQa.gif">
 
-<p align="left"> <img src="file:///C:/Users/Diya/Downloads/WhatsApp%20Image%202022-05-29%20at%2012.39.31%20PM.jpeg=diya24-d&label=Profile%20views&color=0e75b6&style=flat" alt="diya24-d" /> </p>
+<p align="left"> <img src=file:///C:/Users/Diya/Downloads/WhatsApp%20Image%202022-05-29%20at%2012.39.31%20PM.jpeg> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diya24-d" alt="diya24-d" /></a> </p>
 
