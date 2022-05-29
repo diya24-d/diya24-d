@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diya Kudchi</h1>
-<h3 align="center">A passionate developer from India and I believe "Sky is not the limit...Sky is the start" </h3>
+<h3 align="center">A passionate developer from India and I Believe "Sky is not the limit...Sky is the start" </h3><br><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diya24-d&label=Profile%20views&color=0e75b6&style=flat" alt="diya24-d" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diya24-d" alt="diya24-d" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -15,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diya kudchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diya kudchi" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/diya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="diya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/diya-kudchi-0393a122a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diya-kudchi-0393a122a/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@deeyakudchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@deeyakudchi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diya24-d&show_icons=true&locale=en" alt="diya24-d" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diya24-d&" alt="diya24-d" /></p>
-
