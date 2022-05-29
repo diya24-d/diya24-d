@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Diya Kudchi</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt=Coding" width="400" src="file:///C:/Users/Diya/Downloads/WhatsApp%20Image%202022-05-29%20at%2012.39.31%20PM.jpeg">
 
-<p align="left"> <img src=file:///C:/Users/Diya/Downloads/WhatsApp%20Image%202022-05-29%20at%2012.39.31%20PM.jpeg> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diya24-d" alt="diya24-d" /></a> </p>
 
