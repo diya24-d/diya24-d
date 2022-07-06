@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diya24-d&label=Profile%20views&color=0e75b6&style=flat" alt="diya24-d" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="500" height="320" />
 
 - 🔭 I’m currently working on **LED farming using IOT**
 
